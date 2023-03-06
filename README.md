@@ -1,2 +1,2 @@
 # git-practice
-git-practices
+* Bosco : My Movie of interest is found in the bosco.md file
